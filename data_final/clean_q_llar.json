@@ -1,0 +1,396 @@
+{
+    "column_names_to_labels": {
+        "IDENT_LL": "IDENTIFICADOR LLAR",
+        "IDENT": "IDENTIFICADOR PERSONA",
+        "L20A1_1": "20. A LA SEVA LLAR, TENEN... RENTADORA",
+        "L20A2_1": "20. S'HO PODEN PERMETRE?: RENTADORA",
+        "L20A1_2": "20. A LA SEVA LLAR, TENEN... TELEVISOR EN COLOR",
+        "L20A2_2": "20. S'HO PODEN PERMETRE?: TELEVISOR EN COLOR",
+        "L20A1_3": "20. A LA SEVA LLAR, TENEN... TELÈFON",
+        "L20A2_3": "20. S'HO PODEN PERMETRE?: TELÈFON",
+        "L21A": "21. DISPOSA AQUEST HABITATGE DE... VÀTER DINS DE CASA?",
+        "L21B": "21. DISPOSA AQUEST HABITATGE DE... DUTXA O BANYERA?",
+        "L22_3": "22. EL SEU HABITATGE TÉ ALGUN DELS PROBLEMES SEGÜENTS? MANCA DE VENTILACIÓ",
+        "L22_5": "22. EL SEU HABITATGE TÉ ALGUN DELS PROBLEMES SEGÜENTS? ALUMINOSI, CORC O ALTRES PROBLEMES D'ESTRUCTURA DE L'HABITATGE",
+        "L24_1": "24. EL SEU ENTORN RESIDENCIAL TÉ ALGUN DELS PROBLEMES SEGÜENTS? CONTAMINACIÓ, BRUTÍCIA O ALTRES PROBLEMES MEDIAMBIENTALS EN LA ZONA PRODUÏTS PEL TRÀFIC O LA INDÚSTRIA",
+        "L24_2": "24. EL SEU ENTORN RESIDENCIAL TÉ ALGUN DELS PROBLEMES SEGÜENTS? DELINQÜÈNCIA O VANDALISME A LA ZONA",
+        "L48_1": "48. EM POT DIR SI LA SEVA LLAR ES POT PERMETRE: ANAR DE VACANCES, ALMENYS UNA SETMANA A L'ANY?",
+        "L48_3": "48. EM POT DIR SI LA SEVA LLAR ES POT PERMETRE: FER FRONT A UNA DESPESA IMPREVISTA DE 800 € AMB ELS SEUS PROPIS RECURSOS?",
+        "L49A": "49. EM POT INDICAR SI EN ELS DARRERS 12 MESOS LA SEVA LLAR S'HA ENDARRERIT EN EL PAGAMENT D'ALGUN REBUT O QUOTA DE LES DESPESES SEGÜENTS, DEGUT A DIFICULTATS ECONÒMIQUES? PRÉSTECS HIPOTECARIS SOL·LICITATS PER A LA COMPRA DE L'HABITATGE PRINCIPAL)",
+        "L49B": "49. EM POT INDICAR SI EN ELS DARRERS 12 MESOS LA SEVA LLAR S'HA ENDARRERIT EN EL PAGAMENT D'ALGUN REBUT O QUOTA DE LES DESPESES SEGÜENTS, DEGUT A DIFICULTATS ECONÒMIQUES? COMPRES AJORNADES O ALTRES PRÉSTECS (POT CONSIDERAR ELS PRÉSTECS HIPOTECARIS PER A SE",
+        "L49C": "49. EM POT INDICAR SI EN ELS DARRERS 12 MESOS LA SEVA LLAR S'HA ENDARRERIT EN EL PAGAMENT D'ALGUN REBUT O QUOTA DE LES DESPESES SEGÜENTS, DEGUT A DIFICULTATS ECONÒMIQUES? REBUT DEL LLOGUER DE L'HABITATGE PRINCIPAL",
+        "L49D": "49. EM POT INDICAR SI EN ELS DARRERS 12 MESOS LA SEVA LLAR S'HA ENDARRERIT EN EL PAGAMENT D'ALGUN REBUT O QUOTA DE LES DESPESES SEGÜENTS, DEGUT A DIFICULTATS ECONÒMIQUES? FACTURES O REBUTS DE SERVEIS (LLUM, AIGUA, GAS, CALEFACCIÓ, COMUNITAT, ETC.)",
+        "L53A1_1": "53. A QUINES HAN ACUDIT?: CÀRITAS DIOCESANA",
+        "L53A1_2": "53. A QUINES HAN ACUDIT?: CREU ROJA",
+        "L53A1_3": "53. A QUINES HAN ACUDIT?: Banc d'Aliments",
+        "L53A1_95": "53. A QUINES HAN ACUDIT?: ALTRES",
+        "L53A1_98": "53. A QUINES HAN ACUDIT?: NO HO SAP",
+        "L53A1_99": "53. A QUINES HAN ACUDIT?: NO CONTESTA",
+        "L53A2": "53. A QUINES HAN ACUDIT? - ALTRES",
+        "L54": "54. QUAN VA ACUDIR?",
+        "L48_2R": "La seva llar es pot permetre un àpat de carn, pollastre o peix almenys cada dos dies",
+        "L23R": "Te una temperatura suficient càlida durant els mesos freds?",
+        "L20A1_8R": "Tenen o poden permetre's una targeta de crèdit a la llar",
+        "L20A1_6R": "Tenen o poden permetre's accés a internet a la llar",
+        "L20A1_4R": "Tenen o poden permetre's ordinador a la llar",
+        "L20A1_5R": "Tenen o poden permetre's automòbil a la llar",
+        "L22_1R": "Habitatge amb goteres i humitats",
+        "L22_2R": "Habitatge amb escasestat de llum natural",
+        "L22_4R": "Habitatge amb problemes d'esquerdes",
+        "L22_6R": "Habitatge amb problemes d'insectes o rates",
+        "L22_7R": "Habitatge amb problemes de sorolls",
+        "L50R": "Situació en la que arriba a final de mes",
+        "L52R": "Ha acudit a ONG o entitat privada per demanar ajuda",
+        "LP05_R1": "Tipus de llar (EU_SILC)",
+        "LP06": "Tipus de llar (parentiu)",
+        "LP01": "Nombre de membres de la llar",
+        "L1_R1": "Règim de tinença de l'habitatge",
+        "HY010N": "Renda neta total de la llar",
+        "HY010G": "Renda bruta total de la llar",
+        "HY020": "Renda disponible total de la llar"
+    },
+    "file_encoding": "UTF-8",
+    "number_columns": 419,
+    "number_rows": 6624,
+    "variable_value_labels": {
+        "L20A1_1": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L20A2_1": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L20A1_2": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L20A2_2": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L20A1_3": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L20A2_3": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L21A": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L21B": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L22_3": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L22_5": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L24_1": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L24_2": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L48_1": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L48_3": {
+            "1.0": "Sí",
+            "2.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L49A": {
+            "0.0": "No ha de realitzar aquest tipus de pagament",
+            "1.0": "Sí, només una vegada",
+            "2.0": "Sí, dues vegades o més",
+            "3.0": "No",
+            "97.0": "No ha de realitzar aquest tipus de pagament",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L49B": {
+            "0.0": "No ha de realitzar aquest tipus de pagament",
+            "1.0": "Sí, només una vegada",
+            "2.0": "Sí, dues vegades o més",
+            "3.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L49C": {
+            "0.0": "No ha de realitzar aquest tipus de pagament",
+            "1.0": "Sí, només una vegada",
+            "2.0": "Sí, dues vegades o més",
+            "3.0": "No",
+            "97.0": "No ha de realitzar aquest tipus de pagament",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L49D": {
+            "0.0": "No ha de realitzar aquest tipus de pagament",
+            "1.0": "Sí, només una vegada",
+            "2.0": "Sí, dues vegades o més",
+            "3.0": "No",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L53A1_1": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L53A1_2": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L53A1_3": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L53A1_95": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L53A1_98": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L53A1_99": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L54": {
+            "1.0": "En els darrers 6 mesos",
+            "2.0": "D'entre 7 a 12 mesos",
+            "3.0": "D'entre 13 a 24 mesos",
+            "4.0": "Més de 2 anys",
+            "98.0": "No ho sap",
+            "99.0": "No contesta"
+        },
+        "L48_2R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L23R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L20A1_8R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L20A1_6R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L20A1_4R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L20A1_5R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L22_1R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L22_2R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L22_4R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L22_6R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L22_7R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "L50R": {
+            "1.0": "Amb molta dificultat",
+            "2.0": "Amb dificultat",
+            "3.0": "Amb certa dificultat",
+            "4.0": "Amb certa facilitat",
+            "5.0": "Amb facilitat",
+            "6.0": "Amb molta facilitat"
+        },
+        "L52R": {
+            "0.0": "No",
+            "1.0": "Sí"
+        },
+        "LP05_R1": {
+            "1.0": "Unipersonals",
+            "2.0": "Llars sense nens dependents",
+            "3.0": "Llars amb nens dependents"
+        },
+        "LP06": {
+            "1.0": "Unipersonal",
+            "2.0": "Dues o més persones sense nucli",
+            "3.0": "Parella sense fills/es (sense altres persones)",
+            "4.0": "Parella sense fills/es (amb altres persones)",
+            "5.0": "Parella amb fills/es (sense altres persones)",
+            "6.0": "Parella amb fills/es (amb altres persones)",
+            "7.0": "Pare o mare amb fills/es (sense altres persones)",
+            "8.0": "Pare o mare amb fills/es (amb altres persones)",
+            "9.0": "Dos o més nuclis"
+        },
+        "L1_R1": {
+            "1.0": "En propietat",
+            "2.0": "En lloguer o relloguer a preu de mercat",
+            "3.0": "En lloguer o relloguer a preu inferior al de mercat",
+            "4.0": "En cessió gratuïta",
+            "5.0": "Habitació de lloguer",
+            "6.0": "Ocupació",
+            "7.0": "Altres",
+            "9.0": "NS/NC"
+        }
+    },
+    "readstat_variable_types": {
+        "IDENT_LL": "double",
+        "IDENT": "double",
+        "L20A1_1": "double",
+        "L20A2_1": "double",
+        "L20A1_2": "double",
+        "L20A2_2": "double",
+        "L20A1_3": "double",
+        "L20A2_3": "double",
+        "L21A": "double",
+        "L21B": "double",
+        "L22_3": "double",
+        "L22_5": "double",
+        "L24_1": "double",
+        "L24_2": "double",
+        "L48_1": "double",
+        "L48_3": "double",
+        "L49A": "double",
+        "L49B": "double",
+        "L49C": "double",
+        "L49D": "double",
+        "L53A1_1": "double",
+        "L53A1_2": "double",
+        "L53A1_3": "double",
+        "L53A1_95": "double",
+        "L53A1_98": "double",
+        "L53A1_99": "double",
+        "L53A2": "string",
+        "L54": "double",
+        "L48_2R": "double",
+        "L23R": "double",
+        "L20A1_8R": "double",
+        "L20A1_6R": "double",
+        "L20A1_4R": "double",
+        "L20A1_5R": "double",
+        "L22_1R": "double",
+        "L22_2R": "double",
+        "L22_4R": "double",
+        "L22_6R": "double",
+        "L22_7R": "double",
+        "L50R": "double",
+        "L52R": "double",
+        "LP05_R1": "double",
+        "LP06": "double",
+        "LP01": "double",
+        "L1_R1": "double",
+        "HY010N": "double",
+        "HY010G": "double",
+        "HY020": "double"
+    },
+    "table_name": null,
+    "missing_ranges": {},
+    "missing_user_values": {},
+    "variable_measure": {
+        "IDENT_LL": "scale",
+        "IDENT": "scale",
+        "L20A1_1": "nominal",
+        "L20A2_1": "nominal",
+        "L20A1_2": "nominal",
+        "L20A2_2": "nominal",
+        "L20A1_3": "nominal",
+        "L20A2_3": "nominal",
+        "L21A": "nominal",
+        "L21B": "nominal",
+        "L22_3": "nominal",
+        "L22_5": "nominal",
+        "L24_1": "nominal",
+        "L24_2": "nominal",
+        "L48_1": "nominal",
+        "L48_3": "nominal",
+        "L49A": "nominal",
+        "L49B": "nominal",
+        "L49C": "nominal",
+        "L49D": "nominal",
+        "L53A1_1": "nominal",
+        "L53A1_2": "nominal",
+        "L53A1_3": "nominal",
+        "L53A1_95": "nominal",
+        "L53A1_98": "nominal",
+        "L53A1_99": "nominal",
+        "L53A2": "nominal",
+        "L54": "nominal",
+        "L48_2R": "scale",
+        "L23R": "scale",
+        "L20A1_8R": "scale",
+        "L20A1_6R": "scale",
+        "L20A1_4R": "scale",
+        "L20A1_5R": "scale",
+        "L22_1R": "nominal",
+        "L22_2R": "nominal",
+        "L22_4R": "nominal",
+        "L22_6R": "nominal",
+        "L22_7R": "nominal",
+        "L50R": "nominal",
+        "L52R": "scale",
+        "LP05_R1": "nominal",
+        "LP06": "scale",
+        "LP01": "scale",
+        "L1_R1": "nominal",
+        "HY010N": "scale",
+        "HY010G": "scale",
+        "HY020": "scale"
+    },
+    "creation_time": "2017-07-24T09:33:46",
+    "modification_time": "2017-07-24T09:33:46",
+    "file_label": null,
+    "file_format": "sav/zsav"
+}
